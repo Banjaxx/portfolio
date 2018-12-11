@@ -1,9 +1,8 @@
-- name: Twitter
-  favicon: fa-twitter
-  url: http://twitter.com/banjaxx
-- name: Flickr
-  favicon: fa-flickr
-  url: http://www.flickr.com/photos/banjaxx/
 - name: Instagram
   favicon: fa-instagram
   url: http://instagram.com/banjaxx
+- name: Flickr
+  favicon: fa-flickr
+  url: http://www.flickr.com/photos/banjaxx/
+
+
