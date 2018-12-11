@@ -1,3 +1,5 @@
+- name: Stories
+  set: Stories
 - name: People
   key: 72157704495296894
 - name: Places
