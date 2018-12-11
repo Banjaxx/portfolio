@@ -1,14 +1,4 @@
-- name: Stories
-  key: 72157676548365468
 - name: People
   key: 72157704495296894
 - name: Places
   key: 72157704500838654
-- name: Places
-  key: 72157633566493386
-- name: Asia-Pacific
-  key: 72157621410734102
-- name: Europe
-  key: 72157617112681507
-- name: North America
-  key: 72157616978592775
