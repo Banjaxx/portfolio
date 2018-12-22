@@ -29,5 +29,6 @@ Portfolio pages are based on Flickr collections. To modify it you just need to c
 - `background`: The background image for your front page.
 
 ## Demo & Personal Use
-
-Here it is: [**To the demo!**](http://jpdias.me/portfolio-photo/)
+- thanks to jpdias sample (http://jpdias.me/portfolio-photo/)
+-
+Here it is: Banjaxx-Portfolio https://banjaxx.github.io/portfolio/
